@@ -1,0 +1,50 @@
+Section,Image Type,Current Source,Description,Status,Local Path,Recommendation,Notes
+Navigation,Rex Logo,Google Drive,Small Rex icon for nav bar,Using Current,images/rex/,Keep existing Google Drive link,Works great - visible and recognizable
+Hero,Rex Character,Google Drive,Main hero Rex waving/presenting,Using Current,images/rex/,Keep existing or use local,Central mascot image - high priority
+Hero,Trade Badges,Emoji,HVAC/Plumbing/Electrical icons,Using Emoji,N/A,Consider custom icons,Could use trade logo images instead
+Problem Section,Icons,Emoji,Problem illustration icons,Using Emoji,N/A,Optional enhancement,Works fine as-is
+AI Tools,Rex Thinking,Google Drive,Rex in thinking pose for diagnostics,Using Current,images/rex/Confused.png,Use local version,Show Rex analyzing/processing
+AI Tools,Rex Success,Google Drive,Rex with thumbs up for success,Using Current,images/rex/Approved.png,Use local version,Celebration/achievement pose
+AI Tools,Rex Presenting,Google Drive,Rex showing/presenting information,Using Current,images/rex/ONEREQ PRO Consult.png,Use local version,Educational/tutorial scenarios
+AI Tools,Rex Consulting,Placeholder,Rex in consultant role,NEEDED,images/rex/ONEREQ PRO Consult.png,Use existing local,For AI assistant interactions
+Features,Mobile App Screenshot,Placeholder,Mobile app interface screenshot,NEEDED,images/placeholder/,Create screenshot,Show actual app UI
+Features,Dashboard Screenshot,Placeholder,Analytics dashboard view,NEEDED,images/placeholder/,Create screenshot,Performance metrics display
+Features,PDF Sample,Placeholder,Sample PDF output,NEEDED,images/placeholder/,Create sample,Professional requisition form
+Surveys,HVAC Survey Screenshot,Placeholder,Home Comfort Survey interface,NEEDED,images/placeholder/,Create screenshot,Show survey in action
+Surveys,IAQ Presentation,Available,IAQ sales presentation slides,Available,images/features/IAQ Sales Presentation.png,Use local,Educational sales tool
+Surveys,Safety Check,Available,Safety checklist interface,Available,images/features/Safety Check.png,Use local,Inspection workflow
+Team Management,Commission Dashboard,Placeholder,Commission tracker interface,NEEDED,images/placeholder/,Create screenshot,Show earnings transparency
+Team Management,Contest Leaderboard,Placeholder,Live contest standings,NEEDED,images/placeholder/,Create screenshot,Gamification visual
+Team Management,Performance Board,Placeholder,Team performance metrics,NEEDED,images/placeholder/,Create screenshot,Analytics and rankings
+Trades - HVAC,One Hour HVAC Logo,Available,Official trade partner logo,Available,images/trades/,Use existing local,Brand partnership logo
+Trades - HVAC,HVAC Icon,Available,Heating/cooling symbol,Available,images/features/HVAC Icon.png,Use local,Section identifier
+Trades - HVAC,Cabinet Width Tool,Placeholder,Cabinet matching interface,NEEDED,images/placeholder/,Create screenshot,Key differentiator feature
+Trades - Plumbing,Ben Franklin Logo,Available,Official trade partner logo,Available,images/trades/,Use existing local,Brand partnership logo
+Trades - Plumbing,Plumbing Icon,Available,Wrench/pipe symbol,Available,images/features/Plumbing Icon.png,Use local,Section identifier
+Trades - Plumbing,Water Heater Tool,Available,Water heater diagnostic,Available,images/features/Water Heater.png,Use local,Common service item
+Trades - Electrical,Mr. Sparky Logo,Available,Official trade partner logo,Available,images/trades/,Use existing local,Brand partnership logo
+Trades - Electrical,Electrical Icon,Available,Lightning/electrical symbol,Available,images/features/Electrical Icon.png,Use local,Section identifier
+Trades - Electrical,Panel Upgrade,Available,Panel upgrade sales visual,Available,images/features/Panel Upgrade.png,Use local,Key service offering
+Trades - Electrical,Generator,Available,Generator installation/sales,Available,images/features/Generator.png,Use local,High-value service
+Integrations,ServiceTitan Logo,Placeholder,ServiceTitan brand logo,NEEDED,images/placeholder/,Download from vendor,Official partner logo
+Integrations,Jobber Logo,Placeholder,Jobber brand logo,NEEDED,images/placeholder/,Download from vendor,Official partner logo
+Integrations,Housecall Pro Logo,Placeholder,Housecall Pro brand logo,NEEDED,images/placeholder/,Download from vendor,Official partner logo
+Integrations,QuickBooks Logo,Placeholder,QuickBooks brand logo,NEEDED,images/placeholder/,Download from vendor,Official partner logo
+Integrations,Ferguson Logo,Placeholder,Ferguson brand logo,NEEDED,images/placeholder/,Download from vendor,Supplier partner logo
+Integrations,Supply House Logo,Placeholder,Supply House brand logo,NEEDED,images/placeholder/,Download from vendor,Supplier partner logo
+Pricing,Rex Money,Google Drive,Rex with currency/thumbs up,Using Current,images/rex/Approved.png,Use local version,Value/pricing visual
+Testimonials,Customer Avatar JM,Generated,Initials in circle,Using CSS,N/A,Keep CSS generated,Simple and clean
+Testimonials,Customer Avatar SL,Generated,Initials in circle,Using CSS,N/A,Keep CSS generated,Simple and clean
+Testimonials,Customer Avatar RD,Generated,Initials in circle,Using CSS,N/A,Keep CSS generated,Simple and clean
+Testimonials,Company Logos,Placeholder,Customer company logos,NEEDED,images/placeholder/,Request from customers,Social proof enhancement
+Testimonials,Video Testimonial Thumbnail,Placeholder,Video play button overlay,NEEDED,images/placeholder/,Create thumbnail,Video testimonial feature
+CTA,Rex Celebrating,Google Drive,Rex excited/celebrating pose,Using Current,images/rex/Approved.png,Use local version,Final conversion push
+Footer,ONEREQ Logo,Google Drive,Company logo,Using Current,images/logos/,Use local version,Brand consistency
+Footer,Social Media Icons,Emoji,Facebook/Twitter/LinkedIn/YouTube,Using Emoji,N/A,Consider branded icons,Optional enhancement
+Additional,Home Upgrades,Available,Home improvement visuals,Available,images/features/Home Upgrades.png,Use for feature section,General service category
+Additional,Electric Upgrade,Available,Electrical system upgrade,Available,images/features/Electric Upgrade.png,Use for electrical section,Service offering visual
+Additional,IAQ Sale,Available,Indoor air quality promotion,Available,images/features/IAQ Sale.png,Use for HVAC section,Sales opportunity visual
+Additional,Superheat Calculator,Available,HVAC diagnostic tool,Available,images/features/Superheat & Subcooling Calculator.png,Use for tools section,Technical capability
+Additional,Tip - Rex,Available,Rex giving tips/advice,Available,images/rex/Tip - Rex.png,Use for help sections,Educational content
+Additional,Taking Picture,Available,Photo documentation feature,Available,images/rex/Taking Picture.png,Use for documentation features,Field service tool
+Additional,Lightbulb,Available,Ideas/tips icon,Available,images/rex/bulb.png,Use for FAQ or tips,Visual indicator
